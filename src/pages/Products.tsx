@@ -437,6 +437,7 @@ const Products = () => {
                         </p>
                     </div>
 
+
                     {/* Features */}
                     <ul className="space-y-2 mb-6">
                       {product.features.map((feature, idx) => (
